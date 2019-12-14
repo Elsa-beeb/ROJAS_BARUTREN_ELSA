@@ -6,3 +6,4 @@ while(numero_invalido):
    numero_invalido=(numero<0 or numero>=200)
 #fin_while
 print("número valido")
+
