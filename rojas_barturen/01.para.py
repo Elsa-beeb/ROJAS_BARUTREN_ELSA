@@ -1,11 +1,10 @@
 max=10
-i=0
+i=1
 while(i<=max):
+    print(i)
     i+=1
-    if((i%2)==0)
-         print(+(i))
 #fin_while
-print("termone programa")
+print("programa terminado")
 
 
 
