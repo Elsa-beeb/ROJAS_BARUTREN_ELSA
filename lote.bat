@@ -102,6 +102,15 @@ python rojas_barturen/03.para.py
 2415
 2485
 
+python rojas_barturen/04.para.py
+0 numero de galletas
+1 numero de galletas
+2 numero de galletas
+3 numero de galletas
+4 numero de galletas
+5 numero de galletas
+6 numero de galletas
+7 numero de galletas
 
 
 

@@ -1,4 +1,4 @@
-#mostrar la
+#mostrar la cantidad de galletas
 max=7
 n=0
 while(n<=max):
