@@ -1,5 +1,5 @@
 #mostrar numero de alumnos
-max=10
+max=150
 i=max
 while(i<=max):
     print(i,"numero de alumnos ")
