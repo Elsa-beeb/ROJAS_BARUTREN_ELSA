@@ -112,5 +112,13 @@ python rojas_barturen/04.para.py
 6 numero de galletas
 7 numero de galletas
 
+>python rojas_barturen/05.para.py
+3 niños de jardin
+4 niños de jardin
+5 niños de jardin
+6 niños de jardin
+programa terminado
+
+
 
 
